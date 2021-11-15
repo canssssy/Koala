@@ -59,8 +59,8 @@ Dibuat khusus untuk memberantas jamet tele kampang yang meresahkan.
 Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**Managed with by:** [CEVENDISH](https://t.me/PISANG_CAVENDISH)
-▪**JOIN MY CH OFFICIAL:** [PVG](http://t.me/PVGroupchat)
+▪**Managed with by:** [Iky](https://t.me/TakBeradap)
+▪**JOIN MY CH OFFICIAL:** [Iky Said](http://t.me/joinbiaranjay)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
@@ -86,12 +86,12 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://telegra.ph/file/016e151986f0cd4c4646d.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/2a35475df216befdf5246.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [CEVENDISH](https://t.me/PISANG_CAVENDISH), or [SUBS MY CH](https://t.me/PVibesChannel)."""
+user gratisan gausah sok keras; [iky](https://t.me/TakBeradap), or [SUBS MY CH](https://t.me/joinbiaranjay)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
