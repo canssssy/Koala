@@ -91,7 +91,7 @@ ASTRAKOBOT_IMG = "https://telegra.ph/file/2a35475df216befdf5246.jpg"
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [iky](https://t.me/TakBeradap), or [SUBS MY CH](https://t.me/joinbiaranjay)."""
+user gratisan gausah sok keras; [Iky](https://t.me/TakBeradap), or [SUBS MY CH](https://t.me/joinbiaranjay)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
