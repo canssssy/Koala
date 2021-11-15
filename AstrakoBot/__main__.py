@@ -215,8 +215,8 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="👥 PVG Grup",
-                             url=f"https://t.me/PVGroupchat"),
+                             text="👥 Random Stranger Grup",
+                             url=f"https://t.me/RandomSleepcall"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command",
