@@ -59,8 +59,8 @@ Dibuat khusus untuk memberantas jamet tele kampang yang meresahkan.
 Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**Managed with by:** [Iky](https://t.me/TakBeradap)
-▪**JOIN MY CH OFFICIAL:** [Iky Said](http://t.me/joinbiaranjay)
+▪**Managed with by:** [Wan](https://t.me/PISANG_CAVENDISH)
+▪**JOIN MY CH OFFICIAL:** [Story Wang](http://t.me/strywang)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
@@ -86,12 +86,12 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://telegra.ph/file/2a35475df216befdf5246.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/0ed580b1d644fa1b7256f.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [Iky](https://t.me/TakBeradap), or [SUBS MY CH](https://t.me/joinbiaranjay)."""
+user gratisan gausah sok keras; [Wan](https://t.me/PISANG_CAVENDISH), or [SUBS MY CH](https://t.me/strywang)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -215,8 +215,8 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="👥 Random Stranger Grup",
-                             url=f"https://t.me/RandomSleepcall"),
+                             text="👥 Icipiyey",
+                             url=f"https://t.me/icipiyeywongkono"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command",
